@@ -1,2 +1,4 @@
 # 概要
-更新中
+桃タルト。  
+![](https://github.com/stk1201/peachTart/blob/main/work2_tart.png)  
+閲覧方法：blender上でwork2_tart.blendを開く。
